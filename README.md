@@ -1,7 +1,7 @@
 # Proyecto Aplicacion movil con React, busqueda y catalogo de peliculas.
-<br/><br/>
+<br/>
 ###### Proyecto elaborado con React
-<br/><br/>
+<br/>
 ###### Integrantes
 - Raul Flores Ramirez<br/>
 - Roque Alberto Andrade<br/>
