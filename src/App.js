@@ -53,7 +53,7 @@ function App() {
   return (
     <div className="App">
       <header>
-       <h1>Peliculas</h1>
+       <h1>Catalogo de Peliculas</h1>
         
         
       </header>
