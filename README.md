@@ -1,4 +1,4 @@
-#Proyecto Aplicacion movil con React, busqueda y catalogo de peliculas.
+# Proyecto Aplicacion movil con React, busqueda y catalogo de peliculas.
 <br/><br/>
 Raul Flores Ramirez<br/>
 Roque Alberto Andrade<br/>
