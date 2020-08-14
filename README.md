@@ -6,10 +6,19 @@
 - Jesus Martinez Vazquez<br/>
 - Salvador Vidal Martinez
 
+###### Clonar el proyecto, ubicarse en la ruta y actualizar las dependencias con:
+
+```bash
+npm i
+```
+###### Una vez instalada, correr el proyecto con.
+
 ```bash
 npm start
 ```
 
-Solo nos queda decir...
+
+
+
 
 > Gracias maestra Yolanda!
