@@ -6,10 +6,8 @@
 - Jesus Martinez Vazquez<br/>
 - Salvador Vidal Martinez
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```bash
+npm start
 ```
 
 Solo nos queda decir...
